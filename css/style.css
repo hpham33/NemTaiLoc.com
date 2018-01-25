@@ -210,7 +210,7 @@ header {
 	padding-top: 16px;
 	position: relative;
 	z-index: 999;
-	background: #f2f0f0 ;
+	background: #ff0608 ;
 	padding-bottom: 31px;
 	border-bottom: 1px solid #dddbdb;
 	box-shadow: 0 1px 5px #ccc;
@@ -297,7 +297,7 @@ header h1 a img {
 	padding: 0 10px;
 }
 
-.carousel1 li .price {
+/*.carousel1 li */.price {
 	display: inline-block;
 	background: #699440;
 	color: #fff;
