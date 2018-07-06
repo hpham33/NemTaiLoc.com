@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pham Huu Hien Blog",
+    "description": "",
+    "home_page_url": "https://github.com/hpham33/NemTaiLoc.com",
+    "feed_url": "https://github.com/hpham33/NemTaiLoc.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pham Huu Hien"
+    },
+    "items": [
+    ]
+}
