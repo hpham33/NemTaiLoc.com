@@ -3,10 +3,27 @@
     <title>Pham Huu Hien Blog</title>
     <link href="https://github.com/hpham33/NemTaiLoc.com/feed.xml" rel="self" />
     <link href="https://github.com/hpham33/NemTaiLoc.com" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2018-07-06T13:31:35+07:00</updated>
     <author>
         <name>Pham Huu Hien</name>
     </author>
     <id>https://github.com/hpham33/NemTaiLoc.com</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Pham Huu Hien</name>
+        </author>
+        <link href="https://github.com/hpham33/NemTaiLoc.com/test-post.html"/>
+        <id>https://github.com/hpham33/NemTaiLoc.com/test-post.html</id>
+
+        <updated>2018-07-06T11:55:43+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/hpham33/NemTaiLoc.com/media/posts/1/" alt="" />
+                This is a test post content
+            ]]>
+        </content>
+    </entry>
 </feed>

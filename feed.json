@@ -9,5 +9,19 @@
         "name": "Pham Huu Hien"
     },
     "items": [
+        {
+            "id": "https://github.com/hpham33/NemTaiLoc.com/test-post.html",
+            "url": "https://github.com/hpham33/NemTaiLoc.com/test-post.html",
+            "title": "Test post",
+            "content_html": "This is a test post content",
+            "image": "https://github.com/hpham33/NemTaiLoc.com/media/posts/1/",
+            "author": {
+                "name": "Pham Huu Hien"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-07-06T11:55:43+07:00",
+            "date_modified": "2018-07-06T11:55:43+07:00"
+        }
     ]
 }
